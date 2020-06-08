@@ -28,8 +28,8 @@ As for "where I'm from", I usually claim **Chicago**, as that is where I lived t
 
 
 ## Hobbies
-- Weighlifting and nutrition
-- Hiking
-- Hanging out with friends all over the country
-- Watching terrible television and movies
+- **Weighlifting and nutrition**: I just hit a new squat PR during quarantine, so maybe it wasn't all bad!
+- **Hiking**: It's more like walking around Shreveport because it's quite flat here, but very pretty nonetheless!
+- **Hanging out with friends all over the country**: You name a state, and I'm sure I have a friend living somewhere in it
+- **Watching terrible television and movies**: I recently went down a Bigfoot-related movie rabbit hole that seems to have ruined my "recommended for you" category on Netflix forever
 

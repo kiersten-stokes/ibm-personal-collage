@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# About Kiersten Stokes
 
-You can use the [editor on GitHub](https://github.com/kstokes1219/ibm-personal-collage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*I'm dedicated to lifelong learning for myself and for others, to streamlining anything & everything, to growing genuine relationships based in trust, and to infusing humor as often as possible.*
 
-### Markdown
+## Quick Facts
+- My name is pronounced **KEER-sten**, but I don't mind when people mispronounce it
+- I currently live in **Shreveport, Louisiana**, which is in the US central timezone about 3 hours east of Dallas and 5 hours north of New Orleans
+- My husband, **Jim**, is a pilot in the US Air Force, and we met in a Linear Algebra course in undergrad
+- I graduated **Miami University** (in Oxford, Ohio) with a B.S. in Chemistry 
+- I worked for 3 years at **SmithBucklin**, an association management company whose offices were coincidentally located in the former IBM building in downtown Chicago
+- I'm currently pursuing my M.S. in Computer Science at **USC**, and I have one more semester remaining before graduation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Where I'm From
 
-# Header 1
-## Header 2
-### Header 3
+That's a great question. I made a Voronoi diagram to visualize my various homes across the US. A **Voronoi diagram** is a "partitioning of a plane with points into convex polygons such that each polygon contains exactly one generating point and every point in a given polygon is closer to its generating point than to any other." Each point on the map below represents a place I've lived.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+In addition to the above, I also lived in Florence, Italy for half a year, where I worked as an event coordinator for local wineries.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## My Journey into Tech
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kstokes1219/ibm-personal-collage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Hobbies
+- Weighlifting and nutrition
+- Hiking
+- Hanging out with friends all over the country
+- Watching terrible television and movies
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

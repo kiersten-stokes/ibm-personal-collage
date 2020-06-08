@@ -16,7 +16,7 @@
 
 That's a great question. I made a Voronoi diagram to visualize my various homes across the US. A **Voronoi diagram** is a "partitioning of a plane with points into convex polygons such that each polygon contains exactly one generating point and every point in a given polygon is closer to its generating point than to any other." Each point on the map below represents a place I've lived.
 
-![image](/images/voronoi.PNG)
+![](/voronoi.PNG)
 
 
 In addition to the above, I also lived in Florence, Italy for half a year, where I worked as an event coordinator for local wineries.

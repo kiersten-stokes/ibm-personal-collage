@@ -20,7 +20,7 @@ That's a great question. I made a Voronoi diagram to visualize my various homes 
 
 In addition to the above, I also lived in Florence, Italy for half a year, where I worked as an event coordinator for local wineries.
 
-As for "where I'm from", I usually claim Chicago, IL as that is where I lived the most time, or Pittsburgh, PA as that is where my family is from (also, go Steelers!).
+As for "where I'm from", I usually claim **Chicago**, as that is where I lived the most time, or **Pittsburgh**, as that is where my family is from (also, go Steelers!).
 
 ## My Journey into Tech
 

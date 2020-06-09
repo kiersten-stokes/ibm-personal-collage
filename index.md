@@ -1,5 +1,6 @@
 # About Kiersten Stokes
 
+![](/portrait.jpeg)
 
 *I'm dedicated to lifelong learning for myself and for others, to streamlining anything & everything, to growing genuine relationships based in trust, and to infusing humor as often as possible.*
 

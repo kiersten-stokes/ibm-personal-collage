@@ -10,6 +10,7 @@
 - I graduated **Miami University** (in Oxford, Ohio) with a B.S. in Chemistry 
 - I worked for 3 years at **SmithBucklin**, an association management company whose offices were coincidentally located in the former IBM building in downtown Chicago
 - I'm currently pursuing my M.S. in Computer Science at **USC**, and I have one more semester remaining before graduation
+- I am a **second-generation developer**, following in the footsteps of my **mom**, who worked as a developer at Quest Diagnostics as I grew up
 
 
 ## Where I'm From
@@ -25,6 +26,9 @@ As for "where I'm from", I usually claim **Chicago**, as that is where I lived t
 
 ## My Journey into Tech
 
+I took a roundabout way into the tech field. At my career at SmithBucklin, I worked directly with many technology client associations, including SIGGRAPH and Oracle HCM Users Group. This work opened my eyes to the very basics of the computer science field, eventually prompting me to quit my job and pursue my master's degree in computer science full-time.
+
+While it has been an extremely challenging experience (I had never even written so much as a _Hello, World!_ program until a month before I started my master's program!), I wouldn't have it any other way. I may have found my path a bit late, but better late than never!
 
 
 ## Hobbies

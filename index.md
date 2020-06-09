@@ -14,7 +14,7 @@
 
 ## Where I'm From
 
-That's a great question. I made a Voronoi diagram to visualize my various homes across the US. A **Voronoi diagram** is a "partitioning of a plane with points into convex polygons such that each polygon contains exactly one generating point and every point in a given polygon is closer to its generating point than to any other." Each point on the map below represents a place I've lived.
+That's always a difficult question for me to answer. I wrote an R program to generate a Voronoi diagram that visualizes my various homes across the US. A **Voronoi diagram** is a "partitioning of a plane with points into convex polygons such that each polygon contains exactly one generating point and every point in a given polygon is closer to its generating point than to any other." Each point on the map below represents a place I've lived.
 
 ![](/voronoi.PNG)
 
@@ -29,7 +29,7 @@ As for "where I'm from", I usually claim **Chicago**, as that is where I lived t
 
 ## Hobbies
 - **Weighlifting and nutrition**: I just hit a new squat PR during quarantine, so maybe it wasn't all bad!
-- **Hiking**: It's more like walking around Shreveport because it's quite flat here, but very pretty nonetheless!
+- **Hiking**: It's more like walking around Shreveport because it's quite flat here, but very pretty nonetheless
 - **Hanging out with friends all over the country**: You name a state, and I'm sure I have a friend living somewhere in it
 - **Watching terrible television and movies**: I recently went down a Bigfoot-related movie rabbit hole that seems to have ruined my "recommended for you" category on Netflix forever
 

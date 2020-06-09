@@ -37,4 +37,5 @@ While it has been an extremely challenging experience (I had never even written 
 - **Hiking**: It's more like walking in northwest LA because it's quite flat here, but very pretty nonetheless (plug, alligators really up the general excitement level)
 - **Hanging out with friends all over the country**: You name a state, and I'm sure I have a friend living somewhere in it (it does get expensive, though)
 - **Watching terrible television and movies**: I recently went down a Bigfoot-related movie rabbit-hole that seems to have ruined my "recommended for you" category on Netflix forever
+- **Quoting the Simpsons and Futurama whenever possible**: Instant friendship if you do the same!
 

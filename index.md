@@ -34,7 +34,7 @@ While it has been an extremely challenging experience (I had never even written 
 
 ## My Hobbies
 - **Weighlifting and nutrition**: I just hit a new squat PR last month, so maybe quarantine wasn't so bad after all!
-- **Hiking**: It's more like walking in northwest LA because it's quite flat here, but very pretty nonetheless (plug, alligators!)
+- **Hiking**: It's more like walking in northwest LA because it's quite flat here, but very pretty nonetheless (plug, alligators really up the general excitement level)
 - **Hanging out with friends all over the country**: You name a state, and I'm sure I have a friend living somewhere in it (it does get expensive, though)
-- **Watching terrible television and movies**: I recently went down a Bigfoot-related movie rabbit hole that seems to have ruined my "recommended for you" category on Netflix forever
+- **Watching terrible television and movies**: I recently went down a Bigfoot-related movie rabbit-hole that seems to have ruined my "recommended for you" category on Netflix forever
 

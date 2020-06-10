@@ -1,5 +1,3 @@
-# About Kiersten Stokes
-
 ## Quick Facts
 - My name is pronounced **KEER-sten**, but I don't mind when people mispronounce it
 - I currently live in **Shreveport, Louisiana**, which is in the US central timezone about 3 hours east of Dallas and 5 hours north of New Orleans

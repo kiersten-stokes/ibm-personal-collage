@@ -20,7 +20,13 @@ td {
   width: 50% ;
 }
 
-td.img {
+td div {
+  height: inherit;
   width: inherit;
-  height: auto;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+td div img {
+  width: 100%;
 }
